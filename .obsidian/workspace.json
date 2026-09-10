@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "f33790273e932175",
+    "type": "split",
+    "children": [
+      {
+        "id": "fc72c8f4a0c3ccfe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c980438942478421",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_ai_engineering/notes/00_erster_api_call.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "00_erster_api_call"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dd028935c10a9713",
+    "type": "split",
+    "children": [
+      {
+        "id": "33b13990d1a2344b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e1372e49b7c95084",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Dateiexplorer"
+            }
+          },
+          {
+            "id": "c6025cb271337964",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Suchen"
+            }
+          },
+          {
+            "id": "1a17d6746973e4e7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Lesezeichen"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5f1f739d127cbc3d",
+    "type": "split",
+    "children": [
+      {
+        "id": "8213724efb3dc29d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c4b56f865168fbed",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01_ai_engineering/notes/00_erster_api_call.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Rückverweise"
+            }
+          },
+          {
+            "id": "ce84e2aaaf5e44aa",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "01_ai_engineering/notes/00_erster_api_call.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Ausgehende Links"
+            }
+          },
+          {
+            "id": "0b1988b2659e66c6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "6c7d40a2667cb794",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Alle Eigenschaften"
+            }
+          },
+          {
+            "id": "88770d361b4b3f2a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "01_ai_engineering/notes/00_erster_api_call.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Gliederung"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Schnellauswahl öffnen": false,
+      "graph:Graph-Ansicht öffnen": false,
+      "canvas:Neuen Canvas erstellen": false,
+      "daily-notes:Heutige Notiz öffnen": false,
+      "templates:Vorlage einfügen": false,
+      "command-palette:Befehlspalette öffnen": false,
+      "bases:Neue Base erstellen": false
+    }
+  },
+  "active": "c980438942478421",
+  "lastOpenFiles": [
+    "01_ai_engineering/notes/01_prompt_engineering.md",
+    "01_ai_engineering/notes/00_erster_api_call.md",
+    "00_meta/wochenplan.md",
+    "00_meta/SETUP_SCHRITT_1.md",
+    "00_meta/roadmap.md",
+    "00_meta/progress.md",
+    "00_meta/problem-log.md",
+    "01_ai_engineering/00_hallo_llm_gemini.py",
+    "SETUP_SCHRITT_1.md",
+    "03_ai_security/notes",
+    "03_ai_security/defenses",
+    "03_ai_security/attacks",
+    "03_ai_security",
+    "02_cybersecurity/writeups",
+    "02_cybersecurity/notes",
+    "02_cybersecurity/labs",
+    "02_cybersecurity",
+    "01_ai_engineering/projects/00_hallo_llm_gemini.py",
+    "templates/projekt-readme.md",
+    "templates/feynman-notiz.md",
+    "templates/ctf-writeup.md",
+    "wochenplan.md",
+    "roadmap.md",
+    "README.md",
+    "2026-09-10.md",
+    "Unbenannt.canvas"
+  ]
+}

@@ -1,4 +1,4 @@
-# 🎯 AI Security Journey — Wathi
+# AI Security Journey — Wathi
 
 > **Ziel:** Senior-Level Engineer, der KI-Systeme **bauen** UND **angreifen/absichern** kann.
 > **Nische:** AI Security = AI-Engineering ∩ Cybersecurity
@@ -6,7 +6,7 @@
 
 ---
 
-## 📐 Wie dieser Vault funktioniert
+## Wie dieser Vault funktioniert
 
 Dieser Ordner ist **gleichzeitig**:
 - ein **Git-Repo** (Version Control von Tag 1)
@@ -31,7 +31,7 @@ anki_decks/           → Spaced Repetition für Befehle & Syntax
 templates/            → Vorlagen für Notizen, Writeups, Projekte
 ```
 
-## 🗺️ Die drei Teile
+## Die drei Teile
 
 ### TEIL 1 — AI Engineering (bauen)
 Du baust Produkte *auf* Modellen, du trainierst sie nicht von Grund auf.
@@ -47,11 +47,11 @@ Kern 2026: **OWASP LLM Top 10 · MITRE ATLAS · Prompt Injection · Guardrails**
 
 ---
 
-## ✅ Fortschritt
+## Fortschritt
 
 Siehe `00_meta/progress.md` — dort trackst du jede Woche.
 
-## 💡 Problem-Log = Produktideen
+## Problem-Log = Produktideen
 
 Jede Frustration beim Lernen → `00_meta/problem-log.md`.
 Das ist Rohmaterial für dein Unternehmer-Auge.
